@@ -1,0 +1,14 @@
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 100%;
+
+}

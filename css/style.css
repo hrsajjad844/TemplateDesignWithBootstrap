@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    font-family: "Calibri";
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 3000px;
+}
+
+.myNav{
+    background-color: transparent;
+    box-shadow: 0 0 3px gray;
+}
+
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+    padding:0 20px !important;
+}
+
+.nav-link:hover{
+    color: grey !important;
+}
+
+.logo-img{
+    width: 80px;
+}
+
+.banner{
+    background: url("../images/banner-background-designs-hd-free-design-templates-in-banner-background-designs-hd.jpg") no-repeat center;
+    background-size: cover;
+    height: 700px;
+}
+
+.banner-text{
+    margin-top: 250px;
+}
+.banner-image{
+    margin-top: 105px;
+}
+.banner-img{
+    width: 550px;
+}
+
+.services{
+    height: 500px;
+}
+
+
+
